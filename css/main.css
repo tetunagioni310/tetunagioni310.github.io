@@ -510,11 +510,11 @@ h2~p {
 
 .home-section h4 {
   margin-bottom: 0.5em;
-  text-align:center;
+  text-align: center;
 }
 
 .home-section .post-header {
-  text-align: center
+  text-align: center;
 }
 
 .home-section .blog-posts {
@@ -664,6 +664,10 @@ h2~p {
   }
   
   /*　ブログスタイル　*/
+ 
+ .post-aside {
+    display: none;
+  }
  
   .blog-recent {
     display: none;

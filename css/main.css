@@ -869,4 +869,8 @@ h2~p {
   .blog-previews {
     padding: 0;
   }
+  .pull-left {
+    width: 350px;
+    height: 200px;
+  }
 }
